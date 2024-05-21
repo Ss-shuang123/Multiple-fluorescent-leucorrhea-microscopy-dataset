@@ -1,8 +1,22 @@
+<!--
+ * @Author: ss
+ * @Date: 2024-05-21 17:22:45
+ * @LastEditTime: 2024-05-21 17:26:39
+ * @Description: 
+ * @FilePath: /Multiple-fluorescent-leucorrhea-microscopy-dataset/README.md
+-->
 # Multiple-fluorescent-leucorrhea-microscopy-dataset
 
 Our study provides a novel benchmark dataset for multiple fluorescent leucorrhea detection, intending to advance gynecological outpatient and obstetric prenatal examinations. Our dataset comprises 6,698 images and 343,150 annotations of 8 cells and tangible objects for detection and identification. These include epithelial cells, clue cells, hyphae, red blood cells, trichomonas, lactobacillus, leukocytes, and candida.  
+And we can achieve excellent results by applying the algorithm to the actual hardware known as the fluorescence staining platform, which is developed by Shenzhen United Medical Technology Co., Ltd.
 
-## Example
+<center>
+<img src="tmp/device.jpg" style="zoom:60%;" /> 
+
+[fluorescence staining platform](http://www.uni-medica.com/)
+</center>
+
+## Dataset examples
 
 | Images                                                       | Instances                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
